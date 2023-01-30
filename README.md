@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Security Analyst/Penetration Tester
 -----------------------------------------------------
 
-I have several years experience in the IT industry; currently working as a Data Center Technician and honing skills in Python and Cyber Security through self-study and by completing a variety of CTF challenges. I'm working towards gaining OSCP as it's a rite of passage, but I'm actually more interested in the Analyst/Malware RE side of things.
+I have several years experience in the IT industry; currently working as a Data Center Technician and honing skills in Python and Cyber Security through self-study and by completing a variety of CTF challenges. 
+
+I'm working towards gaining OSCP, since it's a rite of passage...but I'm actually more interested in the Analyst/Reverse Engineering/Exploit Development side of things.
 
 * 🌍  I'm based in Birmingham, UK (but can relocate effectively anywhere...)
 * 🖥️  See my portfolio at [b3n5.io](http://b3n5.io) (eventually...)
