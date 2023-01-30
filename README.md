@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben
 ===========================================================================================================================
 
-Aspiring Security Analyst/Pen Tester/Python Developer
+Aspiring Security Analyst/Penetration Tester
 -----------------------------------------------------
 
 I have several years experience in the IT industry; currently working as a Data Center Technician and honing skills in Python and Cyber Security through self-study and by completing a variety of CTF challenges. I'm working towards gaining OSCP as it's a rite of passage, but I'm actually more interested in the Analyst/Malware RE side of things.
