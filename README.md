@@ -9,7 +9,7 @@ I have several years experience in the IT industry; currently working as a Data 
 * 🌍  I'm based in Birmingham, UK (but can relocate effectively anywhere...)
 * 🖥️  See my portfolio at [b3n5.io](http://b3n5.io) (eventually...)
 * ✉️  You can contact me at [b3n589@icloud.com](mailto:b3n589@icloud.com)
-* 🚀  I'm currently working on [247CTF](http://247ctf.com)
+* 🚀  I'm currently working on [247CTF](https://247ctf.com/progress/cakethief)
 * 🧠  I'm learning all the things, always...but most recently playing with Nim and VBA (for evil)
 
 ### Skills
