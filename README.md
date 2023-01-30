@@ -7,7 +7,7 @@ Aspiring Security Analyst/Pen Tester/Python Developer
 I have several years experience in the IT industry; currently working as a Data Center Technician and honing skills in Python and Cyber Security through self-study and by completing a variety of CTF challenges. I'm working towards gaining OSCP as it's a rite of passage, but I'm actually more interested in the Analyst/Malware RE side of things.
 
 * 🌍  I'm based in Birmingham, UK (but can relocate effectively anywhere...)
-* 🖥️  See my portfolio at [b3n5.io](http://b3n5.io)
+* 🖥️  See my portfolio at [b3n5.io](http://b3n5.io) (eventually...)
 * ✉️  You can contact me at [b3n589@icloud.com](mailto:b3n589@icloud.com)
 * 🚀  I'm currently working on [247CTF](http://247ctf.com)
 * 🧠  I'm learning all the things, always...but most recently playing with Nim and VBA (for evil)
