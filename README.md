@@ -12,7 +12,7 @@ Currently working through Hack the Box (HTB) Academy with the aim of gaining the
 * 🖥️  See my portfolio at [b3n5.io](http://b3n5.io) (eventually...)
 * ✉️  You can contact me at [b3n589@icloud.com](mailto:b3n589@icloud.com)
 * 🚀  I'm currently working on [HTB CPTS](https://academy.hackthebox.com/exams/3)
-* 🧠  I'm learning all the things, always...but most recently playing with Nim and VBA (for evil)
+* 🧠  I'm learning all the things, always.
 
 ### Skills
 
