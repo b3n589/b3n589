@@ -8,8 +8,7 @@ I have several years experience in the IT industry; currently working as a Data 
 
 Currently working through Hack the Box (HTB) Academy with the aim of gaining the HTB Certified Penetration Testing Specialist Certification, before moving on to OSCP.
 
-* 🌍  I'm based in Birmingham, UK (but can relocate effectively anywhere...)
-* 🖥️  See my portfolio at [b3n5.io](http://b3n5.io) (eventually...)
+* 🌍  I'm based in Birmingham, UK
 * ✉️  You can contact me at [b3n589@icloud.com](mailto:b3n589@icloud.com)
 * 🚀  I'm currently working on [HTB CPTS](https://academy.hackthebox.com/exams/3)
 * 🧠  I'm learning all the things, always.
